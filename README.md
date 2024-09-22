@@ -1,5 +1,5 @@
 # Product-documents
-Product documents, PDFs, PPTs and so on.
+Product documents, PDFs, PPTs, coding projects and more.
 
 
 Here you can find the Product, Project, SaaS ideas and other related work done by me.
